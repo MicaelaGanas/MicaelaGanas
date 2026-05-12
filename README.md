@@ -1,5 +1,5 @@
 # 💫 About Me:
--BS Computer Science student<br>-Front-end focused — semantic HTML, modern CSS, fluid animations, and clean JavaScript<br>-Builds Java & C++ desktop applications using OOP and file handling<br>-Project manager experienced in task delegation, timelines, and Git workflows<br>-Creator of systems like a Medical Supply Inventory System and a Homestay Booking Platform<br>-Consistent Dean’s Lister & ET Yuchengco Scholar<br>-Passionate about clean UI, accessibility, and building user-focused projects
+-BS Computer Science student<br>-Front-end focused — semantic HTML, modern CSS, fluid animations, and clean JavaScript<br>-Builds Java & C++ desktop applications using OOP and file handling<br>-Project manager experienced in task delegation, timelines, and Git workflows<br>-Creator of systems like a Medical Supply Inventory System and a Homestay Booking Platform<br>-Consistent Dean’s & President Lister & ET Yuchengco Scholar<br>-Passionate about clean UI, accessibility, and building user-focused projects
 
 
 ## 🌐 Socials:
